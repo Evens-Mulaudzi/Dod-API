@@ -50,7 +50,7 @@ public class allDogBreeds {
 
 
     @Test
-    public void SubBreeds(){
+    public void GetSubBreeds(){
 
        given() .header("Accept", "application/json")
                 .when()
@@ -67,7 +67,7 @@ public class allDogBreeds {
 
     @Test
 
-    public void RandomImage(){
+    public void GetRandomImage(){
         given()
                 .header("Accept", "application/json")
                 .when()
