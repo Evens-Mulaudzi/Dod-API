@@ -1,4 +1,4 @@
-# Dod-API 
+# Dog-API 
 
 This is a guide on how to use the Dog API, which is available at https://dog.ceo/dog-api/.
 
